@@ -1,0 +1,28 @@
+ca/uwaterloo/cs349/canvasShape.java
+ ca.uwaterloo.cs349.canvasShape
+ca/uwaterloo/cs349/canvasLine.java
+ ca.uwaterloo.cs349.canvasLine
+ca/uwaterloo/cs349/fileMenuView.java
+ ca.uwaterloo.cs349.fileMenuView
+ca/uwaterloo/cs349/canvasCircle.java
+ ca.uwaterloo.cs349.canvasCircle
+ca/uwaterloo/cs349/canvasView.java
+ ca.uwaterloo.cs349.canvasView
+ca/uwaterloo/cs349/Model.java
+ ca.uwaterloo.cs349.Model
+ca/uwaterloo/cs349/canvasModel.java
+ ca.uwaterloo.cs349.canvasModel
+ca/uwaterloo/cs349/IView.java
+ ca.uwaterloo.cs349.IView
+ca/uwaterloo/cs349/canvasRectangle.java
+ ca.uwaterloo.cs349.canvasRectangle
+ca/uwaterloo/cs349/Coordinate.java
+ ca.uwaterloo.cs349.Coordinate
+ca/uwaterloo/cs349/SketchIt.java
+ ca.uwaterloo.cs349.SketchIt
+ ca.uwaterloo.cs349.SketchIt$1
+ ca.uwaterloo.cs349.SketchIt$2
+ca/uwaterloo/cs349/toolsView.java
+ ca.uwaterloo.cs349.toolsView
+ ca.uwaterloo.cs349.toolsView$1
+ ca.uwaterloo.cs349.toolsView$2
